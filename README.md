@@ -16,6 +16,7 @@ In this game, players alternate placing Xs and Os on a board of configurable siz
 
 - `ktran000_KInARow.py`: Main agent file containing the AI logic
 - `GameTranscript.pdf`: Example game transcript showing the agent’s behavior in action
+- `A4-Report.pdf`: Written report describing the design, persona, and implementation details
 
 ## Personal Contributions
 
@@ -24,8 +25,13 @@ I implemented:
 - Zobrist hashing to improve efficiency in repeated state evaluation
 - A dialogue system that generated expressive in-game utterances based on state and opponent interaction
 
+## Report
+
+For a detailed explanation of the agent’s design, implementation, and extra credit features, see the [A4 Report](./A4-Report.pdf).
+
 ## Course Info
 
 - Course: CSE 415 - Introduction to Artificial Intelligence
 - Institution: University of Washington
 - Term: Winter 2025
+
